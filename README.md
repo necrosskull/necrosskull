@@ -1,7 +1,7 @@
 <h3 align="center"> Hi there, I'm Slava Kuryaev. </h3>
 Novice website creator 🖥️<br>
 	I am studying at RTU MIREA.<br>
-- 📦 Sometimes I write music, but I want to realize myself in IT<br>
+- 📦 I want to realize myself in IT<br>
 <h3 align="left">  You may follow me on Telegram  </h3>
 
 [![Custom badge](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Ftelegram-badge-4mbpu8e0fit4.runkit.sh%2F%3Furl%3Dhttps%3A%2F%2Ft.me%2Fnecrosskull)](https://t.me/necrosskull)
