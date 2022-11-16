@@ -1,5 +1,5 @@
 <h3 align="center"> Hi there, I'm Slava Kuryaev. </h3>
-Novice website creator 🖥️<br>
+<br>
 	I am studying at RTU MIREA.<br>
 - 📦 I want to realize myself in IT<br>
 <h3 align="left">  You may follow me on Telegram  </h3>
