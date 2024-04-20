@@ -4,7 +4,7 @@
 - 📦 I want to realize myself in IT<br>
 
 <h3 align="left">  Write to me in private messages  </h3>
-   <a href="https://t.me/titaniumbakup" target="_blank"><img align="center" src="https://github.com/necrosskull/necrosskull/blob/main/props/telegram_button_icon_151837.svg" alt="titaniumbakup" height="50" width="100"/></a>
+   <a href="https://t.me/nanazip" target="_blank"><img align="center" src="https://github.com/necrosskull/necrosskull/blob/main/props/telegram_button_icon_151837.svg" alt="titaniumbakup" height="50" width="100"/></a>
  
 <p>
 
