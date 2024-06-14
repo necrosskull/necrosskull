@@ -10,7 +10,7 @@
 
 
 
-[![](https://img.shields.io/badge/enjoy-FUTURE-ff1414.svg?style=flat-square)](https://necrosskull.ru)
+[![](https://img.shields.io/badge/enjoy-FUTURE-ff1414.svg?style=flat-square)](https://ncrsk.ru)
  
- [![NCRSK - CORP](https://img.shields.io/static/v1?label=NCRSK&message=CORP&color=%239a68af&style=for-the-badge)](https://necrosskull.ru)
+ [![NCRSK - CORP](https://img.shields.io/static/v1?label=NCRSK&message=CORP&color=%239a68af&style=for-the-badge)](https://ncrsk.ru)
  
